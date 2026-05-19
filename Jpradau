@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Apps IA Gratis 2026</title>
+<style>
+body{
+font-family:Arial;
+background:#111;
+color:white;
+margin:0;
+padding:0;
+}
+header{
+padding:40px;
+text-align:center;
+background:#1e1e1e;
+}
+.card{
+background:#222;
+margin:20px;
+padding:20px;
+border-radius:15px;
+}
+button{
+background:#00cc66;
+color:white;
+border:none;
+padding:10px 20px;
+border-radius:10px;
+font-size:16px;
+cursor:pointer;
+}
+a{
+color:white;
+text-decoration:none;
+}
+</style>
+</head>
+<body>
+
+<header>
+<h1>Las Mejores Apps IA Gratis</h1>
+<p>Herramientas útiles para estudiar, editar y crear contenido.</p>
+</header>
+
+<div class="card">
+<h2>ChatGPT</h2>
+<p>IA para tareas, ideas y textos.</p>
+<a href="https://chatgpt.com" target="_blank">
+<button>Probar</button>
+</a>
+</div>
+
+<div class="card">
+<h2>Canva</h2>
+<p>Diseños fáciles gratis.</p>
+<a href="https://www.canva.com" target="_blank">
+<button>Entrar</button>
+</a>
+</div>
+
+<div class="card">
+<h2>CapCut</h2>
+<p>Edita videos TikTok gratis.</p>
+<a href="https://www.capcut.com" target="_blank">
+<button>Descargar</button>
+</a>
+</div>
+
+</body>
+</html>
